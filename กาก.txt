@@ -8,3 +8,5 @@ spec:
   resources:
     requests:
       storage: 1Gi #2Gi 3Gi
+
+comment naja 
