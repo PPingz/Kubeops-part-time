@@ -6,7 +6,7 @@ spec:
   accessModes:
     - ReadWriteMany
   resources:
-    requests:
+    requests:ojmn[punpun]
       storage: 1Gi #2Gi 3Gi
 
 comment naja 
